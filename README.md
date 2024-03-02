@@ -7,20 +7,25 @@
 ```bash
 ├── README.md
 ├── door-sign
-│   ├── door-sign.kicad_pcb
-│   ├── door-sign.kicad_prl
-│   ├── door-sign.kicad_pro
-│   ├── door-sign.kicad_sch
+│   ├── bom
+│   │   └── ibom.html
+│   ├── door-sign.kicad_pcb
+│   ├── door-sign.kicad_prl
+│   ├── door-sign.kicad_pro
+│   ├── door-sign.kicad_sch
+│   ├── fp-lib-table
+│   ├── schematic.pdf
+│   └── sym-lib-table
 ├── images
-│   └── preview.jpg
+│   └── preview.jpg
 └── libs
 ```
 
 ## Todo
-- [ ] schematic
-- [ ] pcb
-- [ ] check
-- [ ] bom
+- [x] schematic
+- [x] pcb
+- [x] check
+- [x] bom
 - [ ] order
     - [ ] pcb
     - [ ] components
