@@ -82,9 +82,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "gerber/")
     )
   )
 
@@ -201,7 +201,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 508f710c-1ddb-4fde-ba0b-f7d1cb334253)
     )
-    (fp_text value "CF12JT220R" (at 7.874 0 90 unlocked) (layer "F.Fab") hide
+    (fp_text value "CF12JT110R" (at 7.874 0 90 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dc82fa2e-8eae-49e1-8712-e86348039d04)
     )
@@ -427,7 +427,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a8097fc5-f6c1-4726-a661-c4f0556dd41b)
     )
-    (fp_text value "3352T-1-501LF" (at 7.63 6.065) (layer "F.Fab") hide
+    (fp_text value "3352T-1-201LF" (at 7.63 6.065) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4816c460-bade-4037-9a70-65d8d64b085a)
     )
@@ -579,7 +579,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2a2fe9fc-56a7-4565-b0b5-90148f5de326)
     )
-    (fp_text value "CF12JT220R" (at 7.874 0 90 unlocked) (layer "F.Fab") hide
+    (fp_text value "CF12JT110R" (at 7.874 0 90 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e8d513b5-2eaa-400d-9ee3-7725f45b27d1)
     )
