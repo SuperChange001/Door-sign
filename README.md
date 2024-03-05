@@ -8,6 +8,7 @@
 ├── README.md
 ├── door-sign
 │   ├── bom
+│   │   ├── Parts_ordering_digikey.xlsx
 │   │   └── ibom.html
 │   ├── door-sign.kicad_pcb
 │   ├── door-sign.kicad_prl
@@ -27,6 +28,6 @@
 - [x] check
 - [x] bom
 - [ ] order
-    - [ ] pcb
+    - [x] pcb
     - [ ] components
 - [ ] test
