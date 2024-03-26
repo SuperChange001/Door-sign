@@ -40,4 +40,4 @@
     - [x] fix the position of the potentiometer
 
 ## Acknowledgement
-Thanks Peter (I should add his github account here) for the idea and the perfect layout of the door sign.
+Thanks, Peter (I should add his GitHub account here), for the idea and the perfect layout of the door sign.
