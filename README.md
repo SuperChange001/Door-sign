@@ -27,7 +27,14 @@
 - [x] pcb
 - [x] check
 - [x] bom
-- [ ] order
+- [x] order
     - [x] pcb
-    - [ ] components
-- [ ] test
+    - [x] components
+- [x] test
+    - found one error that the direction of the switch is is not as intuative as it should be, and this is fixed in in v1.0
+    - found the potentiometer is not in the center of the rectangle, and this is fixed in v1.0
+    - add version number to the pcb
+- [x] revision for 1.0
+    - [x] add version number to the pcb
+    - [x] fix the direction of the switch
+    - [x] fix the position of the potentiometer
