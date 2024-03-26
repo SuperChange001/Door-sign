@@ -38,3 +38,6 @@
     - [x] add version number to the pcb
     - [x] fix the direction of the switch
     - [x] fix the position of the potentiometer
+
+## Acknowledgement
+Thanks Peter (I should add his github account here) for the idea and the perfect layout of the door sign.
